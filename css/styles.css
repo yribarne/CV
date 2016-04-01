@@ -1,0 +1,118 @@
+header {
+  background-color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+/*  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+  text-align: center;
+  height: auto;
+  min-height: 200px;
+  color: white;
+  font-size: 1.9em;
+  text-shadow: 2px 2px #394759;
+ }
+footer{
+  background-color: #000000;
+  text-align: center;
+  overflow: auto;
+  margin-top: 10px;
+/*  min-height: 130px;*/
+  color: white;
+  font-size: 1em;
+}
+body{
+	font-family: 'Titillium Web', sans-serif;
+	background-color: white;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+@media (min-width: 1200px) {
+.container{
+	width: 85%;
+	}
+}
+
+@media (max-width: 767px) {
+.headOfSection{
+	text-align: center;
+	padding-bottom: 20px;
+	}
+}
+hr{
+	border-color: #7F7E7E;
+	border-width: 2px;
+	width: 75%;
+}
+button{
+	margin: auto;
+	margin-top: 10px;
+}
+.downHeader{
+  background-color: #000000;
+  text-align: center;
+  overflow: auto;
+/*  min-height: 130px;*/
+  color: white;
+  font-size: 1em;	
+}
+.divisions{
+	background-color: #7F7E7E;
+	text-align: center;
+	height: auto;
+	min-height: 50px;
+	color: white;
+	font-size: 1.6em;
+    text-shadow: 2px 2px #000000;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.companies{
+	font-size: 1.6em;
+}
+.positions{
+	font-size: 1.2em;
+}
+
+.summary{
+	font-size: 1.2em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.titleEng{
+	text-align: center;
+	font-size: 1.3em;
+}
+.courses{
+	font-size: 0.9em;
+}
+.footerElement{
+	text-align: left;
+	font-size: 1.2em;
+	float: left;
+	background: black;
+	display: block;
+/*	border: white 1px solid;*/
+	height: auto;
+	min-width: 200px;
+	width: auto;
+	margin: 1% 5% 1% 10%;
+}
+
+.carriers{
+	background-color: white;
+	color: black;
+	font-size: 1.2em;
+	padding: 60px 40px 60px 40px;
+	margin: 60px;
+	min-width: 200px;
+}
+.carriers p{
+	margin-bottom: 30px;
+
+}
+.carriers img{
+	margin-left: auto;
+	margin-right: auto;
+
+}
