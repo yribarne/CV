@@ -43,6 +43,7 @@ body{
 		padding-bottom: 5px;
 	}
 }
+
 hr{
 	border-color: #7F7E7E;
 	border-width: 2px;
@@ -102,7 +103,6 @@ button{
 	width: auto;
 	margin: 1% 5% 1% 10%;
 }
-
 .carriers{
 	background-color: white;
 	color: black;
