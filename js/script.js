@@ -18,7 +18,10 @@ function showList(event){
 	this.textContent=newText;
 
 }
+
+
 document.querySelector("#bMSFT").addEventListener("click",showList);
 document.querySelector("#bNOKIA").addEventListener("click",showList);
 document.querySelector("#bNSN").addEventListener("click",showList);
 document.querySelector("#bEDU").addEventListener("click",showList);
+document.querySelector("#bFCPT").addEventListener("click",showList);
